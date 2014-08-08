@@ -1,10 +1,7 @@
 {
   "name": "myapp",
   "version": "0.0.1",
-  "author": "",
-  "dependencies": {},
-  "devDependencies": {},
-  "engines": {
-    "node": "0.8.x"
+  "dependencies": {
+    "geddy": "^13.0.1"
   }
 }
